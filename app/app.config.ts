@@ -4,23 +4,23 @@ export default defineAppConfig({
     available: true,
   },
   profile: {
-    name: 'Hugo Richard',
-    job: 'Frontend Architect and Designer',
-    email: 'contact@hrcd.fr',
-    phone: '(+33) 6 21 56 22 18',
+    name: 'Nathaniel',
+    job: 'Pure Computers (Owner/Operator) IT Specialist.',
+    email: 'Nate@Dom-I-NATE.pro',
+    phone: '+15854841764',
     picture: 'https://avatars.githubusercontent.com/u/71938701?v=4',
   },
   socials: {
-    github: 'https://github.com/HugoRCD',
+    github: 'https://github.com/nate-mina',
     twitter: 'https://twitter.com/HugoRCD__',
-    linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
+    linkedin: 'https://www.linkedin.com/in/dom-i-nate',
+    instagram: 'https://www.instagram.com/dom.i_nate',
     spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
   },
   seo: {
-    title: 'Canvas a Nuxt portfolio template',
-    description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
-    url: 'https://canvas.hrcd.fr',
+    title: 'Nathaniel Mina Bio / Pure Computers',
+    description: 'developed with Nuxt and Tailwind CSS.',
+    url: 'https://www.purecomp.net',
   },
   ui: {
     colors: {
